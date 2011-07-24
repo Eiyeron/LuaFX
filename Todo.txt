@@ -1,0 +1,5 @@
+TODO:
+
+-Copy the source code
+-Start filing the wiki
+-Start using the git repository
