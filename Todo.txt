@@ -1,0 +1,15 @@
+TODO:
+
+-Copy the source code
+-Start filing the wiki
+-Start using the git repository
+
+Benchmarks summary:
+
+-Artihmetic operations
+-Strings operations
+-Arrays operations
+-Functions operations
+-Loops opertaions
+-Conditions operations
+-Graphics operations

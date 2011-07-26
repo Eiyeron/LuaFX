@@ -1,0 +1,22 @@
+-----------------
+| LuaFX Project |
+|     2011      |
+-----------------
+
+Work in Progress.|
+------------------
+
+LuaFX is a portage of Lua language for the Casio Graph 85+/75/95/35+/FX-9860 USB series models.
+The project was first a portage for AFX/Graph100+, and was nammed LuAFX, but that branch forked to a news interpretor, nammed LuaFX. The Lua's simplicity and the C's speed for an easy and fast language was the intention. Today, the project needs to be completed, LuaFX may be the calculator programming future.
+
+Creator: Vebveb.
+Collaborators: Eiyeron, Louloux, PierrotLL.
+
+Are you ready for Revolution?
+
+Benchmarks Branch|
+------------------
+
+This branch is made to stock the result sof the speeds tests on LuaFX.
+
+Benchmarkers: Eiyeron
